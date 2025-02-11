@@ -15,6 +15,8 @@ Our corporation want our Platform Engineers to build out a facade layer for our 
    - Collaborate with legal, security, and compliance teams to identify restrictions, policies, and best practices for Azure resource creation.  
    - Document these requirements to guide the development of the facade layer.
      - [Business Requirements](step1/business-requirements.md)
+     - [Compliance Requirements](step1/compliance-requirements.md)
+     - [Risk Assessment](step1/risk-assessment.md)
 
 2. **Identify Top 10 Azure Components**  
    - Work with stakeholders to determine the most frequently used Azure components (e.g., Virtual Machines, Storage Accounts, Kubernetes Clusters, etc.).  

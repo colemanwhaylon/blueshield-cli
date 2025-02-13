@@ -44,7 +44,7 @@ Our corporation want our Platform Engineers to build out a facade layer for our 
 
 7. **Develop the Command-Line Interface (CLI)**  
    - Create a CLI tool that mirrors the functionality of the web portal.  
-   - Ensure the CLI enforces the same business rules and provides clear error messages for non-compliant requests.  
+   - [Ensure the CLI enforces the same business rules and provides clear error messages for non-compliant requests](step7/developthecli.md).
    - Package the CLI for easy distribution to developers.
 
 8. **Implement Security and Access Controls**  

@@ -19,7 +19,7 @@ Use a language that supports CLI development and has good Azure SDK support. Pop
 For this example, we'll use **Python**.  
 
 ## 3. Create a Custom CLI Tool  
-Use a Python library like [**click**](https://click.palletsprojects.com/en/stable/){:target="_blank"} or **argparse** to build your CLI tool.  
+Use a Python library like <a href="https://click.palletsprojects.com/en/stable/" target="_blank" rel="noopener noreferrer">[**click**]</a> or **argparse** to build your CLI tool.  
 
 
 ## 4. Key Features of the Wrapper
